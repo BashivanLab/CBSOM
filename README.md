@@ -35,7 +35,8 @@ To run the notebook, you need to install the TDANN package. You can do so by clo
 You can find the checkpoints here https://drive.google.com/drive/folders/1XYs1bWB17ycuyXrl67ACwD2X0Ar1xlVH?usp=share_link
 
 ## 📜 Citation:
-If you use our work, please cite:  
+If you use our work, please cite: 
+```bash
 @inproceedings{
 dehghani2025creditbased,
 title={Credit-based self organizing maps: training deep topographic networks with minimal performance degradation},
@@ -44,3 +45,4 @@ booktitle={The Thirteenth International Conference on Learning Representations},
 year={2025},
 url={https://openreview.net/forum?id=wMgr7wBuUo}
 }
+```
